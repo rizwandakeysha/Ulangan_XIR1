@@ -9,7 +9,7 @@ package tes_7;
  *
  * @author rizwa
  */
-public class Tes_7 {
+public class Tes_Tujuh {
 
     /**
      * @param args the command line arguments
